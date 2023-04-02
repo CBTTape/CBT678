@@ -1,0 +1,11 @@
+2023-04-03 01:54:14.333759 - Initialized conversion of CBT678
+2023-04-03 01:54:14.405847 - Received CBT.V504.FILE678.PDS from FILE678.XMI 
+2023-04-03 01:54:14.408784 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE678.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:54:14.410498 - Found $$DOC.txt (text/plain) in CBT.V504.FILE678.PDS, moved to PDS/$$DOC
+2023-04-03 01:54:14.411784 - Found @FILE678.txt (text/plain) in CBT.V504.FILE678.PDS, moved to PDS/@FILE678
+2023-04-03 01:54:14.412869 - Found ADRUIXIT.jcl (text/plain) in CBT.V504.FILE678.PDS, moved to PDS/ADRUIXIT
+2023-04-03 01:54:14.412883 - Found AWSADR.bin containing application/octet-stream, moved to PDS/AWSADR
+2023-04-03 01:54:14.414999 - Found AWSADRJ.jcl (text/plain) in CBT.V504.FILE678.PDS, moved to PDS/AWSADRJ
+2023-04-03 01:54:14.415986 - Found AWSADRJ2.jcl (text/plain) in CBT.V504.FILE678.PDS, moved to PDS/AWSADRJ2
+2023-04-03 01:54:14.415995 - Found AWSADROL.bin containing application/octet-stream, moved to PDS/AWSADROL
+2023-04-03 01:54:14.418102 - Found AWSDSSU.jcl (text/plain) in CBT.V504.FILE678.PDS, moved to PDS/AWSDSSU
