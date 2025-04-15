@@ -1,10 +1,10 @@
-2025-04-15 04:41:03.291434 - Received CBT.V508.FILE678.PDS from FILE678.XMI 
-2025-04-15 04:41:03.292771 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:41:03.293028 - Found $$DOC.txt (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/$$DOC
-2025-04-15 04:41:03.293286 - Found @FILE678.txt (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/@FILE678
-2025-04-15 04:41:03.293696 - Found ADRUIXIT.jcl (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/ADRUIXIT
-2025-04-15 04:41:03.294576 - Found AWSADR.bin (application/octet-stream) in CBT.V508.FILE678.PDS, moved to PDS/AWSADR
-2025-04-15 04:41:03.294827 - Found AWSADRJ.jcl (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/AWSADRJ
-2025-04-15 04:41:03.295191 - Found AWSADRJ2.jcl (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/AWSADRJ2
-2025-04-15 04:41:03.295812 - Found AWSADROL.bin (application/octet-stream) in CBT.V508.FILE678.PDS, moved to PDS/AWSADROL
-2025-04-15 04:41:03.296043 - Found AWSDSSU.jcl (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/AWSDSSU
+2025-04-15 23:19:17.612639 - Received CBT.V508.FILE678.PDS from FILE678.XMI 
+2025-04-15 23:19:17.613971 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:19:17.614184 - Found $$DOC.txt (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/$$DOC
+2025-04-15 23:19:17.614244 - Found @FILE678.txt (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/@FILE678
+2025-04-15 23:19:17.614642 - Found ADRUIXIT.jcl (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/ADRUIXIT
+2025-04-15 23:19:17.615437 - Found AWSADR.bin (application/octet-stream) in CBT.V508.FILE678.PDS, moved to PDS/AWSADR
+2025-04-15 23:19:17.615653 - Found AWSADRJ.jcl (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/AWSADRJ
+2025-04-15 23:19:17.615993 - Found AWSADRJ2.jcl (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/AWSADRJ2
+2025-04-15 23:19:17.616521 - Found AWSADROL.bin (application/octet-stream) in CBT.V508.FILE678.PDS, moved to PDS/AWSADROL
+2025-04-15 23:19:17.616732 - Found AWSDSSU.jcl (text/plain) in CBT.V508.FILE678.PDS, moved to PDS/AWSDSSU
